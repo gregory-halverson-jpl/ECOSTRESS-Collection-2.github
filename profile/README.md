@@ -1,4 +1,4 @@
-# ECOsystem Spaceborne Thermal Radiometer Experiment on Space Station (ECOSTRESS) Collection 2 Data Product Algorithms
+# ECOSTRESS Collection 2 Data Product Algorithms
 
 This organization contains the algorithms for the ECOsystem Spaceborne Thermal Radiometer Experiment on Space Station (ECOSTRESS) mission collection 2 data products. 
 
