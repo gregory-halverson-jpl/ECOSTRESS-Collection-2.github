@@ -17,8 +17,13 @@ flowchart TD
     L2T_LSTE_product[L2T LSTE Product]
     L2T_STARS_product[L2T STARS Product]
 
+    LP_DAAC[Stage for LP-DAAC]
+
     L1_L2_RAD_LSTE_PGE --> L1T_RAD_product
+    L1T_RAD_product --> LP_DAAC
     L1_L2_RAD_LSTE_PGE --> L2T_LSTE_product
+    L2T_LSTE_product --> LP_DAAC
     L2T_LSTE_product --> L2T_STARS_PGE
     L2T_STARS_PGE --> L2T_STARS_product
+    L2T_STARS_product --> LP_DAAC
 ```
