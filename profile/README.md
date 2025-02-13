@@ -15,8 +15,10 @@ flowchart TD
 
     L1T_RAD_product[L1T RAD Product]
     L2T_LSTE_product[L2T LSTE Product]
+    L2T_STARS_product[L2T STARS Product]
 
     L1_L2_RAD_LSTE_PGE --> L1T_RAD_product
     L1_L2_RAD_LSTE_PGE --> L2T_LSTE_product
     L2T_LSTE_product --> L2T_STARS_PGE
+    L2T_STARS_PGE --> L2T_STARS_product
 ```
