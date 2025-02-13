@@ -1,1 +1,0 @@
-# ECOSTRESS Collection 2
