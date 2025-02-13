@@ -10,5 +10,5 @@ This document will provide background information relevant to the ECOSTRESS miss
 
 ```mermaid
 flowchard TD
-  L1_L2_RAD_LSTE --> L2T_STARS
+    L1_L2_RAD_LSTE --> L2T_STARS
 ```
