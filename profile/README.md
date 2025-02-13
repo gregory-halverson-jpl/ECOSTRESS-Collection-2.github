@@ -9,6 +9,6 @@ ECOSTRESS collection 2 is a precursor to the [Surface Biology and Geology Therma
 This document will provide background information relevant to the ECOSTRESS mission and data products. 
 
 ```mermaid
-flowchard TD
+flowchart TD
     L1_L2_RAD_LSTE --> L2T_STARS
 ```
